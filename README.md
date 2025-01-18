@@ -24,7 +24,6 @@ Feature Engineering: Transform raw data into structured formats for analysis.
 Data Filtering and Integration: Applied filters for consistent periods and combined data from different sources into a unified dataset.
 
 2. Understanding Sleep Stages and Metrics
-
 Light Sleep: Initial relaxation stage.
 Deep Sleep: Restorative stage for repair and memory consolidation.
 REM Sleep: Dreaming phase with brain activity.
